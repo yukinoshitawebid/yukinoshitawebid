@@ -1,16 +1,28 @@
-## Hi there 👋
-https://www.yukinoshita.web.id
-<!--
-**yukinoshitawebid/yukinoshitawebid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✦ Domath ID. | Yukinoshita.web.id
 
-Here are some ideas to get you started:
+Selamat datang di GitHub saya!  
+Saya adalah seorang pengembang dan penulis konten teknologi di [**www.yukinoshita.web.id**](https://www.yukinoshita.web.id).  
+Fokus saya adalah membangun solusi digital yang modern, efisien, dan mudah diakses—mulai dari proyek open source, otomasi, hingga artikel teknologi yang humanis dan SEO-friendly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌸 Tentang Saya
+- 🔧 Pengembang yang senang bereksperimen dengan **Python, JavaScript, dan ESP32-C3**.
+- 📚 Penulis artikel mendalam yang menggabungkan perspektif teknis, narasi emosional, dan pendekatan editorial.
+- 🌐 Pemilik dan pengelola [yukinoshita.web.id](https://www.yukinoshita.web.id), situs yang menyajikan tutorial, opini, dan ulasan teknologi terkini.
+
+---
+
+### 🚀 Visi & Misi
+> Membuka wawasan teknologi bagi semua kalangan, dengan menghadirkan karya yang **informatif, relevan, dan berdampak positif**.
+
+---
+
+### ✏️ Temukan Lebih Banyak
+📖 Baca artikel dan tutorial saya di [**www.yukinoshita.web.id**](https://www.yukinoshita.web.id)  
+🔗 Ikuti saya untuk pembaruan proyek dan insight seputar dunia digital.
+
+---
+
+Terima kasih sudah berkunjung ke repositori saya!  
+Mari terus belajar, berbagi, dan berkarya. 🌱
