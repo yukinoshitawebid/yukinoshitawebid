@@ -15,7 +15,6 @@ Fokus saya adalah membangun solusi digital yang modern, efisien, dan mudah diaks
 
 ### 🚀 Visi & Misi
 > Membuka wawasan teknologi bagi semua kalangan, dengan menghadirkan karya yang **informatif, relevan, dan berdampak positif**.
-
 ---
 
 ### ✏️ Temukan Lebih Banyak
@@ -24,7 +23,7 @@ Fokus saya adalah membangun solusi digital yang modern, efisien, dan mudah diaks
 
 ---
 ## Holopin Badges
-
+![Google Skills Badges](https://google-skills-badges.vercel.app/api/board?profile=83f786c6-710b-4dd9-9072-9c32de14d6b9&theme=dark&columns=5&indices=0,1,2)
 [![@domathid's Holopin board](https://holopin.io/api/user/board?user=domathid)](https://holopin.io/@domathid)
 
 Terima kasih sudah berkunjung ke repositori saya!  
