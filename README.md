@@ -1,7 +1,7 @@
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=220&section=header&text=Yukinoshita%20Web%20ID&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=14" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=6,12,19,24,30&height=220&section=header&text=Yukinoshita%20Web%20ID&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=14" width="100%" alt="header"/>
 </div>
 
 <!-- Typing Animation -->
