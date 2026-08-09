@@ -148,5 +148,3 @@ fun_fact: "I debug with console.log() and I'm proud of it 😄"
   <br/><br/>
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-F78C6C?style=flat-square" alt="made-with-love"/>
 </div>
-
-Selamat mencoba! 🚀 Profile GitHub kamu akan terlihat keren dan profesional. Kalau ada bagian yang mau diubah atau ditambahkan (misalnya blog section, project highlight, atau testimonial), tinggal bilang saja!
