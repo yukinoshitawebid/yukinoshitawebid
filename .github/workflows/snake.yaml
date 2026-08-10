@@ -5,8 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# TAMBAHKAN BARIS INI SUPAYA BOT BISA PUSH HASILNYA
 permissions:
-  contents: write  # Add this line
+  contents: write
 
 jobs:
   build:
@@ -19,7 +20,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4 # Saya upgrade ke v4 biar warning node 20 hilang
         with:
           target_branch: output
           build_dir: dist
